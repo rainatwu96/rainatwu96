@@ -7,5 +7,6 @@ Front End Developer and Designer
 Current pursuing Gatech Master of Computer Science | Master of Information, University of Toronto | Front End Developer | UI/UX Designer with 3+ year experience
 
 * 🌍  I'm based in Seattle, WA
-* 🖥️  See my portfolio at [My portfolio](http://rainatwu.net)
+* 🌐 See my personal website at 
+* 🖥️  See my UX portfolio at [My portfolio](http://rainatwu.net)
 * ✉️  You can contact me at [rainatwu@gmail.com](mailto:rainatwu@gmail.com)
